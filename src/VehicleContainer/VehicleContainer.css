@@ -1,0 +1,21 @@
+.vehicle-container {
+    width: 200px;
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+  
+.vehicle-thumbnail {
+    max-width: 200px;
+}
+  
+.vehicle-msrp {
+    font-weight: 600;
+    font-size: 16px;
+    color: #ccc;
+}
+  
+.vehicle-header {
+    font-weight: 600;
+    font-size: 18px;
+    color: #999;
+}
