@@ -1,11 +1,14 @@
 .vehicle-container {
-    width: 200px;
+    border: 1px solid #ccc;
     font-size: 12px;
-    margin-bottom: 20px;
+    margin: 20px;
+    padding: 20px;
+    width: 200px;
 }
   
 .vehicle-thumbnail {
     max-width: 200px;
+    min-height: 150px;
 }
   
 .vehicle-msrp {

@@ -1,5 +1,16 @@
-.vehicles-container {
+.header-container {
     display: flex;
-    min-height: 200px;
     flex-wrap: wrap;
+    padding: 0 20px 0 20px;
+    background: #1F5CAA;
+}
+
+.header-container .heading {
+    color: #FFFFFF;
+}
+
+.header-container .logo {
+    margin: 20px;
+    width: 60px;
+    height: 100%;
 }
